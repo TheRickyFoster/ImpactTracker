@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ImpactTracker
 
 🚀 **Project Overview**
@@ -59,3 +60,6 @@ This project uses a **Hybrid Guardian License**:
 Tracked by the Symbiote Ledger under Symbiote #001. Project metadata, contributions, and lifeform impact are logged via IPFS and optional chain notarization.
 
 ---
+=======
+# ImpactTracker
+>>>>>>> 1cdbdad4704579a522dac54b257afb1699589f08
